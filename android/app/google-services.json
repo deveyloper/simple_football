@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "831390298842",
+    "firebase_url": "https://simplefootball-62475.firebaseio.com",
+    "project_id": "simplefootball-62475",
+    "storage_bucket": "simplefootball-62475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831390298842:android:e916a35ec3e0d9992febe3",
+        "android_client_info": {
+          "package_name": "com.conqsolid.simplefootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrllX0xmxksPAvFy1VyhEZEGZYBw9BaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831390298842-t8irft30pvfl10e1fss2ttihm4c57jeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.conqsolidt.simplefootball"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831390298842:android:9205e77277a02e5d2febe3",
+        "android_client_info": {
+          "package_name": "com.conqsolidt.simplefootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrllX0xmxksPAvFy1VyhEZEGZYBw9BaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831390298842-t8irft30pvfl10e1fss2ttihm4c57jeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.conqsolidt.simplefootball"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831390298842:android:2d6f2748c23f84b72febe3",
+        "android_client_info": {
+          "package_name": "com.example.simple_football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrllX0xmxksPAvFy1VyhEZEGZYBw9BaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831390298842-c4qabsr1se2a29cg3tuuh2qcldskd4cj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831390298842-t8irft30pvfl10e1fss2ttihm4c57jeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.conqsolidt.simplefootball"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
