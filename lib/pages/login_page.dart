@@ -25,8 +25,8 @@ class LoginPage extends StatelessWidget {
               SizedBox(
                 height: 20,
               ),
-              TextField(
-                enabled: false,
+              TextField(              
+                enabled: true,
                 decoration: InputDecoration(
                     prefixIcon: Icon(
                       Icons.mail,
@@ -36,7 +36,7 @@ class LoginPage extends StatelessWidget {
                     fillColor: Colors.transparent,
                     hintText: 'E-Mail',
                     hintStyle: TextStyle(color: Colors.white),
-                    disabledBorder: OutlineInputBorder(
+                    border: OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.white, width: 1),
                       borderRadius: BorderRadius.circular(50),
                     )),
@@ -46,7 +46,7 @@ class LoginPage extends StatelessWidget {
                 height: 20,
               ),
               TextField(
-                enabled: false,
+                enabled: true,
                 decoration: InputDecoration(
                     prefixIcon: Icon(Icons.vpn_key, color: Colors.white70),
                     filled: true,

@@ -153,7 +153,7 @@ class _ChatPageState extends State<ChatPage> {
                             from: 'fatih',
                             text: _chatMessageTextController.value.text));
                         _chatMessageTextController.clear();
-                        FocusScope.of(context).requestFocus(FocusNode());
+                        //FocusScope.of(context).requestFocus(FocusNode());
                         _chatListController.jumpTo(
                             _chatListController.position.maxScrollExtent);
                       },
